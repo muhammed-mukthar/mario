@@ -204,8 +204,13 @@ p::selection{
     }
     header{
         position: relative;
+        padding: 0px;
     }
     nav{
         top: 0;
     }
+    #nn{
+font-size: 12px;
+    }
+
 }
